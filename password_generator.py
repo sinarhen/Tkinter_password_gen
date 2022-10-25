@@ -22,3 +22,4 @@ btn = ttk.Button(app, text='Generate', command=lambda: generate(label1))
 btn.pack()
 
 app.mainloop()
+
